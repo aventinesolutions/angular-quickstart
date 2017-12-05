@@ -1,7 +1,8 @@
 .welcome {
   width: 66%;
   text-align: center;
-  border: 0.25em groove silver;
+  border: 0.5em groove darkgrey;
+  background-color: cornsilk;
 }
 
 h1 {
